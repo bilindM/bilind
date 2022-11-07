@@ -16,7 +16,11 @@ header {
   border-bottom: 1px solid #423940;
   z-index: 11;
 }
+.rounded{
+  height: 200px;
+width: 100px;
 
+}
 .fixed {
   background-color: rgb(236, 241, 250);
   position: fixed;
